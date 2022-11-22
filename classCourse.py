@@ -1,4 +1,3 @@
-#2
 class Course:
 
   def __init__(self,cn,f,s):
