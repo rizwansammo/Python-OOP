@@ -22,13 +22,6 @@ class Match:
         self.wicket+=wicket
 
 
-
-
-
-
-
-
-
 match1 = Match("Rangpur Riders-Cumilla Victorians")
 print("=========================")
 match1.add_run(4)
